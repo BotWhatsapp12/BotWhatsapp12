@@ -4,7 +4,7 @@
 
 <p align="center">
 
-- 👼 My name is ArulGanz
+- 👼 My name is BotWhatsapp
 - 🗣️ I am 17 years old 
 - 🔭 I am not programmer
 
@@ -32,11 +32,11 @@
 
 ### Github Stats 🚀
 
-<p align="center"><a href="https://github.com/PUTRA-gblk"><img src="https://github-readme-stats.vercel.app/api?username=PUTRA-gblk&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/PUTRA-gblk"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PUTRA-gblk&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/BotWhatsapp12"><img src="https://github-readme-stats.vercel.app/api?username=BotWhatsapp12&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/BotWhatsapp12"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BotWhatsapp12&theme=radical&layout=compact"></a></p> 
 
 ### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=My-BotV3&repo=Private&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=GuraBot&repo=Private&theme=dark)
 
 
 <p align="center">
